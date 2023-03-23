@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ecosim"]
+	path = ecosim
+	url = https://github.com/cran/ecosim
+	shallow = true
+	registered = true
+[submodule "rivernet"]
+	path = rivernet
+	url = https://github.com/cran/rivernet
+	shallow = true
+	registered = true
+[submodule "stoichcalc"]
+	path = stoichcalc
+	url = https://github.com/cran/stoichcalc
+	shallow = true
+	registered = true
+[submodule "timedeppar"]
+	path = timedeppar
+	url = https://github.com/cran/timedeppar
+	shallow = true
+	registered = true
+[submodule "utility"]
+	path = utility
+	url = https://github.com/cran/utility
+	shallow = true
+	registered = true
