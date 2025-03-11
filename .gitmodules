@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "DRclass"]
+	path = DRclass
+	url = https://github.com/cran/DRclass
 [submodule "ecosim"]
 	path = ecosim
 	url = https://github.com/cran/ecosim
